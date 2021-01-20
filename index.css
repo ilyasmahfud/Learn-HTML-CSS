@@ -1,0 +1,150 @@
+@import "bootstrap.css";
+@import "IndieFlower-Regular.ttf";
+@import "ArchitectsDaughter-Regular.ttf";
+
+.ilovebogor::first-letter{
+    font-size: xx-large;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url(IndieFlower-Regular.ttf);
+}
+
+@font-face {
+    font-family: "fontquote";
+    src: url(ArchitectsDaughter-Regular.ttf);
+}
+
+h1 {
+    background-color: bisque;
+    padding: 20px;
+    margin: 0px 70px 0px 70px ;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+h3 {
+    color: black;
+    font-family: myfont;
+    font-size: 15px;
+    background: bisque;
+    border-radius: 5px;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+
+img{
+    border-radius: 50%;
+}
+
+.ilovebogor::first-letter{
+    font-size: xx-large;
+}
+
+.tombol {
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: bisque;
+    border-radius: 5px;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+
+.tombol:hover {
+    color: black;
+    background-color: burlywood;
+    padding: 12px 20px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-flexbox;  
+}
+
+
+
+.nulis{
+    color: black;
+    font-family: myfont;
+    font-size: 20px;
+    background: beige;
+    border-radius: 5px;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+
+.penulis {
+    background-color: bisque;
+    padding: 15px 20px ;
+    border-radius: 5px
+}
+
+p{
+    background-color: bisque;
+    padding: 15px 20px ;
+    border-radius: 5px    
+}
+
+.lope {
+    background-color: bisque;
+    padding: 15px 20px ;
+    border-radius: 5px        
+}
+
+.quote::first-letter{
+    font-size: xx-large;
+}
+
+.quote {
+    font-family: fontquote;
+    font-size: 18px;
+}
+
+.ig {
+    color: grey;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: beige;
+    border-radius: 5px;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+
+.ig:hover {
+    color: black;
+    background-color: burlywood;
+    padding: 12px 20px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-flexbox;   
+}
+
+.github {
+    color: grey;
+    font-family: sans-serif;
+    font-size: 15px;
+    background: beige;
+    border-radius: 5px;
+    padding: 12px 20px;
+    text-decoration: none;
+}
+
+.github:hover{
+    color: black;
+    background-color: burlywood;
+    padding: 12px 20px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-flexbox;   
+}
+
+.closing-bawah {
+    background-color: bisque;
+    padding: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
